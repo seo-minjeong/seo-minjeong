@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&background=74FF8A00&lines=Hi+%F0%9F%99%8C+I'm+%40seo-minjeong)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=21&color=F7E2F5&center=true&vCenter=true&lines=Hi+%F0%9F%90%A5+I'm+seo-minjeong)](https://git.io/typing-svg)
 
 <!--
 **seo-minjeong/seo-minjeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
