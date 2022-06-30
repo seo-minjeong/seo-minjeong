@@ -30,5 +30,6 @@ Here are some ideas to get you started:
 ### 📝
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimsh1691@gmail.com)](mailto:smj12938@gmail.com) [![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white&link=mailto:rlatngus1691@naver.com)](mailto:rlatngus1691@naver.com) [![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=mailto:rlatngus1691@naver.com)](mailto:rlatngus1691@naver.com)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=seo-minjeong&theme=tokyonight)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=seo-minjeong&theme=tokyonight)
 
 </div>
