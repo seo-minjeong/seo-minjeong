@@ -1,6 +1,8 @@
 <div align="center">
 
+<!--
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+-->
 
 <!--
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=21&color=F7E2F5&center=true&vCenter=true&lines=Hi+%F0%9F%90%A5+I'm+seo-minjeong)](https://git.io/typing-svg)
