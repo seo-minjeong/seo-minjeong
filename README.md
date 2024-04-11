@@ -1,4 +1,3 @@
-<div align="center">
 
 <!--
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -40,4 +39,4 @@ Here are some ideas to get you started:
 </div>
 -->
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
